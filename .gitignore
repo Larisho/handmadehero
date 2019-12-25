@@ -1,0 +1,11 @@
+*~
+*.dll
+*.exe
+*.lib
+*.map
+*.obj
+*.exp
+*.pdb
+*.hmi
+*.sln
+.vs
